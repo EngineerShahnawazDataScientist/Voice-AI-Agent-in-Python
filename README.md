@@ -34,6 +34,3 @@ This project demonstrates how to build a real-time conversational voice assistan
 - **ipywidgets**
 
 ---
-
-## 📂 Project Structure
-
